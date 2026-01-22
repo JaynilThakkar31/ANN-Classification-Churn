@@ -1,7 +1,6 @@
-tensorflow
-pandas
+protobuf==3.20.3
+streamlit==1.32.0
+tensorflow==2.20.0
 numpy
+pandas
 scikit-learn
-tensorboard
-matplotlib
-streamlit
